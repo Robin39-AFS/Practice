@@ -1,1 +1,13 @@
-This is my last test
+First Day
+a. Basic of git.
+b. create a repo.
+c. create a local repo.
+d. git remote add .
+e. git add .
+f. git commit -m "msg"
+g. git push
+h. git pull
+i. git log
+j. git status
+k. git checkout
+l. git branch
